@@ -1,4 +1,6 @@
-👋 I'm a resident at Google using machine learning to explore art and culture. 
+## 👋 I'm Emil
+
+I'm a resident at Google using machine learning to explore art and culture. 
 
 Part-time, I'm an independent researcher in neural reasoning where I apply machine learning to logical tasks such as programming and mathematics. 
 
