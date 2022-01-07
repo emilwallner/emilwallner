@@ -1,7 +1,7 @@
 ## 👋 I'm Emil
 
-I'm a resident at Google using machine learning to explore art and culture.
+I'm a resident at Google using machine learning to explore art and culture. You can read about my latest project in [Wired](https://www.wired.com/story/artificial-intelligence-reviving-lost-art/) or [the Washington Post](https://www.washingtonpost.com/entertainment/museums/gustav-klimt-google-digital-reconstructions/2021/12/28/4a18f61e-36a5-11ec-8be3-e14aaacfa8ac_story.html). 
 
-Part-time, I apply machine learning to logical tasks and art. Oh, and [I love writing](https://www.emilwallner.com/) about internet education, learning ML, and indie research. 
+On the side, I'm working on an ML photo editor. You can see some [early results here](https://www.reddit.com/user/emilwallner/).
 
-Say hi over email or ping me on [Twitter](https://twitter.com/EmilWallner).
+Cheers!
