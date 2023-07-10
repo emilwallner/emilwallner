@@ -1,6 +1,6 @@
 ## 👋 I'm Emil
 
-I'm the maker of [Palette](https://palette.fm/) and a former resident at Google. 42 alumni.
+I'm the Founder of [Palette](https://palette.fm/) and a former resident at Google. 42 alumni.
 
 - 🎛 Palette: An ML desktop browser app to [colorize photos with words](https://palette.fm/).
 - 🎥 A one-minute [video introduction](https://www.youtube.com/watch?v=xKPk7tG2upc)
